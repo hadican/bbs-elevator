@@ -2,6 +2,8 @@
     <modelVersion>4.0.0</modelVersion>
     <name>Untitled</name>
     <artifactId>artifact</artifactId>
+    <groupId>artifact</groupId>
+    <version>1.0-SNAPSHOT</version>
 
     <dependencies>
         <dependency>
