@@ -1,0 +1,21 @@
+# Java
+*.class
+
+# Package Files #
+*.jar
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Idea
+.idea/
+*.iml
+*.iws
+
+# Maven
+target/
+
+# Gradle
+build/
